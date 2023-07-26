@@ -10,15 +10,15 @@ For this project, you'll build a simple Instagram clone using React. There is a 
 
 ### Task 1: Project Setup
 
-- [ ]  Clone the repository to your machine using your terminal
-- [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
-- [ ]  Download project dependencies by running `npm install`
-- [ ]  Start up the app using `npm run dev`
-- [ ]  Push commits: git push origin `main`
+- [ ] Clone the repository to your machine using your terminal
+- [ ] CD into the project base directory `cd React-Components-Insta-Clone`
+- [ ] Download project dependencies by running `npm install`
+- [ ] Start up the app using `npm run dev`
+- [ ] Push commits: git push origin `main`
 
 ### Task 2: MVP
 
-This app can be broken down into two main sections that you'll need to implement for this project: the Search Bar and the Posts. 
+This app can be broken down into two main sections that you'll need to implement for this project: the Search Bar and the Posts.
 
 A Search Bar will be rendered at the top of the page, and a Posts component will render an individual Post for every object inside the `dummy-data.js` array. You'll need to set up state to keep track of the posts. You will implement a callback to increase the "likes count" on posts and hand it several levels down into a nested component through props.
 
